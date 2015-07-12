@@ -1,0 +1,7 @@
+# .Rhistory
+*.bak
+*.gz
+*.Rout
+*.*~ For this Project   
+#
+##household_power_consumption.txt

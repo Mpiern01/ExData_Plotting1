@@ -1,3 +1,8 @@
+## First Download and Unzip  
+##* <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb] After saving it. Then you can run the scripts. One by one they will create the plots. I have put mini comments on each reminding of this just in case. I did try to upload the data file to github for you, but its way too large. Sorry. 
+
+
+
 ## Introduction
 
 This assignment uses data from
