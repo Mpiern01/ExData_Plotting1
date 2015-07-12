@@ -1,6 +1,7 @@
 ## Download the main dataset from <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 ## Unzip, save it, then run the script. It was too large to commit to Github. Sorry ;( 
 ##(attempted to load data file for you)
+##Plot2
 
 epc <- read.table("household_power_consumption.txt",header=T,sep=";",colClasses=c("character","character","double","double","double","double","double","double","numeric"),na.strings="?")
 epc$DateTime = paste(epc$Date, epc$Time)
